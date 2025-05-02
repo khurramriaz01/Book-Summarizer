@@ -1,7 +1,6 @@
 # 📚 Summary Generator App
 
-![App Screenshot](1.jpg)
-![App Screenshot](2.jpg)
+![App Screenshot](1.jpg) ![App Screenshot](2.jpg)
 
 Summary Generator is a simple and user-friendly Android app built using **Flutter**. It allows users to quickly generate book summaries by simply entering the **book name** and optionally the **author name**. The app uses the **Gemini API** to fetch a concise, high-quality summary of the book.
 
